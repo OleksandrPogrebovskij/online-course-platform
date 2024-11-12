@@ -1,0 +1,17 @@
+/* Додайте ваші стилі тут */
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    width: 300px;
+    margin: 0 auto;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
